@@ -1,0 +1,108 @@
+.card-label{
+    text-decoration: underline;
+    text-shadow: 0 0 2px #5e0e0e;
+    color:rgb(238, 232, 220);
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .d1{
+    margin-left: 50px;
+    text-align: center;
+  }
+  .d2{
+    margin-bottom: 20px;
+  }
+  .header{
+    font-size:40px;
+    margin-bottom :0px;
+    margin-top:5px;
+     background-color:#2a2438;
+     font-family: "Sofia", sans-serif;
+     text-align: center;
+     color: aliceblue;
+  }
+
+  .card-container{
+    padding: 70px;
+    padding-top: 80px;
+    height: 100vh;
+    width: 100vw;
+    max-height: 100px;
+    max-width: 1300px;
+    min-height: 600px;
+    /* min-width: 300px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    background-color:#352f44;
+  }
+
+  .card{
+    margin-bottom: 170px;
+    height: 242px;
+    width: 250px;
+    background: grey;
+    border-radius: 10px;
+    /* transition: background 0.8s */
+    overflow: hidden;
+    background: black;
+    box-shadow: 0 70px 63px -60px #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .card1
+  {
+  background: url('https://images-na.ssl-images-amazon.com/images/I/41Ub1DO4gJL.png') center center no-repeat;
+  background-size: 250px;
+  background-color: #5c5470;
+  }
+  
+      h2{
+        opacity: 1
+      }
+      .fa{
+        opacity: 1
+      }
+      .card2
+  {
+  background: url('https://www.calculadoraconversor.com/wp-content/uploads/2015/03/conversor-kmh-mph.jpg') center center no-repeat;
+  background-size: 250px;
+  background-color: #5c5470;
+  }
+  
+      h2{
+        opacity: 1
+      }
+      .fa{
+        opacity: 1
+      }
+      .card3
+  {
+  background: url('https://previews.123rf.com/images/yuriizasimov/yuriizasimov1901/yuriizasimov190100020/126223688-celsius-and-fahrenheit-meteorology-thermometers-measuring-heat-and-cold-vector-illustration-thermome.jpg') center center no-repeat;
+  background-size: 250px;
+  background-color: #5c5470;
+  }
+  
+      h2{
+        opacity: 1
+      }
+      .fa{
+        opacity: 1
+      }
+      .card4
+  {
+  background: url('https://images.squarespace-cdn.com/content/v1/58dd66eeff7c50aff96d04ba/1535659250609-KL481Q4AEGVS0BCGLFQD/time-calculator-app-logo.png') center center no-repeat;
+  background-size: 250px;
+  background-color: #700B97;
+  }
+  
+      h2{
+        opacity: 1
+      }
+      .fa{
+        opacity: 1
+      }
