@@ -43,7 +43,7 @@ function Distance() {
                         <div className='button-div'>
                             <Button className="btn btn-success" onClick={convert}>Convert</Button>
                             <div style={{ marginLeft: '17px', marginTop: '20px' }}>
-                                <h2 id='result' style={{ color: 'white' }} >{result}</h2>
+                                <h2 id='result' style={{ color: 'white' }} >Result is :{result}</h2>
                             </div>
                         </div>
                     </div>
